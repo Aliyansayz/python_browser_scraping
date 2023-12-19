@@ -110,8 +110,8 @@ async def main(link0 ,link1 , link2, link3  ):
 #         #await page.goto(f"https://www.suburbanmen.com/page/2/")
 #         await page.goto("https://www.instagram.com/")
 #         #
-#         await page.fill('//*[@id="loginForm"]/div/div[1]/div/label/input' , 'cight.exe@gmail.com')
-#         await page.fill('//*[@id="loginForm"]/div/div[2]/div/label/input' , 'City@')
+#         await page.fill('//*[@id="loginForm"]/div/div[1]/div/label/input' , 'enter email')
+#         await page.fill('//*[@id="loginForm"]/div/div[2]/div/label/input' , 'enter password')
 #
 #         await page.click(' //*[@id="loginForm"]/div/div[3]/button' )
 
